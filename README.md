@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlegArtMotion
 - 👀 I’m interested in deep learning and creativity
-- 🌱 I’m currently learning to an_mate with dall.e 2
+- 🌱 I’m currently learning to animate with AI
 - 💞️ I’m looking to collaborate with awsome people on great projects together.
 - 📫 You can reach me at https://www.linkedin.com/in/olegukrainski 
 - My portfolio https://animator.co.il
